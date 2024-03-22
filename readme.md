@@ -1,4 +1,4 @@
-# Project Title
+# Animated Navigation
 
 This project is a single-page website with five sections and an animated hamburger menu. Advanced CSS animations are used for the hamburger menu, while JavaScript is utilized to hide and show different sections with animations.
 
@@ -24,7 +24,7 @@ The project features a single-page website with five sections: Home, About, Skil
 
 ## Demo
 
-[Link to live demo or GIF/video demonstrating the project in action]
+[https://animated-navigation-snowy.vercel.app/#contact]
 
 ## Installation
 
