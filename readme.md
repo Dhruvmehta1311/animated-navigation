@@ -24,7 +24,7 @@ The project features a single-page website with five sections: Home, About, Skil
 
 ## Demo
 
-[https://animated-navigation-snowy.vercel.app/#contact]
+[Demo](https://animated-navigation-snowy.vercel.app/#contact)
 
 ## Installation
 
